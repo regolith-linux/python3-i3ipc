@@ -1,0 +1,23 @@
+python3-i3ipc (2.1.1-1ubuntu1~ppa7) bionic; urgency=medium
+
+  * Changes to python version.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Mon, 25 May 2020 12:48:53 -0700
+
+i3ipc-python (2.1.1-1ubuntu1~ppa6) bionic; urgency=medium
+
+  * Update build dependencies hoping to resolve packaing problems. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Tue, 19 May 2020 07:29:24 -0700
+
+i3ipc-python (2.1.1-1ubuntu1~ppa4) eoan; urgency=medium
+
+  * Add python-xlib dependency. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 07 Dec 2019 12:28:26 -0800
+
+i3ipc-python (2.1.1-1ubuntu1~ppa2) eoan; urgency=medium
+
+  * Initial release from https://github.com/altdesktop/i3ipc-python/archive/v2.1.1.tar.gz.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 01 Dec 2019 16:03:09 -0800
