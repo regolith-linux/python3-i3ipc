@@ -1,3 +1,14 @@
+python3-i3ipc (2.1.1-1ubuntu1~ppa8) bionic; urgency=medium
+
+  [ Khosrow Moossavi ]
+  * feat: enable github action to test pull requests
+  * feat: enable github action to publish to unstable
+  * feat: enable github action to publish to testing
+  * feat: enable github action to prepare release
+  * fix: create release tag from correct git sha
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Tue, 04 Feb 2025 02:56:41 +0000
+
 python3-i3ipc (2.1.1-1ubuntu1~ppa7) bionic; urgency=medium
 
   * Changes to python version.
